@@ -1,4 +1,3 @@
-# ai-news-email-agent
 # AI News Email Agent
 
 An AI-powered automation workflow built with **n8n** that automatically fetches the latest AI news, summarizes it using Google Gemini, and emails the results.
